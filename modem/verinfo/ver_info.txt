@@ -1,0 +1,18 @@
+{
+    "Image_Build_IDs": {
+        "aop": "AOP.HO.1.1.C1-00023-SDM710AAAAANAZO-1", 
+        "apps": "LA.UM.7.8.9-13200-SDM710.0-2", 
+        "boot": "BOOT.XF.2.1-00106-SDM710LZB-1", 
+        "common": "SDM670.LA.1.9-00040-STD.PROD-1", 
+        "glue": "GLUE.SDM670_LA.1.9-00008-NOOP_TEST-1", 
+        "modem": "MPSS.AT.4.0.2.c4-00026-SDM710_GEN_PACK-1", 
+        "tz": "TZ.XF.5.0.2-00069-S710AAAAANAZT-1", 
+        "wapi": "WLAN_ADDON.HL.1.0-00030-CNSS_RMZ_WAPI-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SDM670.LA.1.9-00040-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2019-02-13 16:32:49"
+    }, 
+    "Version": "1.0"
+}

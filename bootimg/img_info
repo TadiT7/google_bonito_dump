@@ -1,0 +1,14 @@
+kernel=kernel
+ramdisk=ramdisk
+dt=dt.img
+page_size=4096
+kernel_size=20222894
+ramdisk_size=7769792
+dtb_size=1
+base_addr=0x00000000
+kernel_offset=0x00008000
+ramdisk_offset=0x01000000
+tags_offset=0x00000100
+cmd_line='console=ttyMSM0,115200n8 androidboot.console=ttyMSM0 printk.devkmsg=on msm_rtb.filter=0x237 ehci-hcd.park=3 service_locator.enable=1 firmware_class.path=/vendor/firmware cgroup.memory=nokmem lpm_levels.sleep_disabled=1 loop.max_part=7 buildvariant=user'
+board=""
+format=gzip

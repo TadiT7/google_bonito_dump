@@ -1,0 +1,6 @@
+require board=bonito|sargo
+
+require version-bootloader=b4s4-0.1-5336001
+
+
+require version-baseband=g670-00011-190213-B-5306579
